@@ -1,0 +1,13 @@
+name: MTMobile
+version: 1.0-SNAPSHOT
+main: valiblackdragon.mtmobile.main
+prefix: "MTMobile"
+authors: [ValiBlackDragon]
+description: Telefoons in MC server
+commands:
+    getphone:
+        description: krijg een telefoon
+    getrandom:
+        description: random
+    getuser:
+        description: well
